@@ -1,0 +1,1 @@
+http://twistedoakstudios.com/blog/Post2096_making-an-immutable-queue-with-guaranteed-constant-time-operations

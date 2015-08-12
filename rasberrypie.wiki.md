@@ -1,0 +1,1 @@
+http://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=135305&s_no=135305&page=1

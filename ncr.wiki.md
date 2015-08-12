@@ -1,0 +1,1 @@
+http://blog.ncsoft.com/?p=1192

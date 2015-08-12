@@ -1,0 +1,1 @@
+http://minix.tistory.com/
