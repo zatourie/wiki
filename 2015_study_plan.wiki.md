@@ -24,5 +24,8 @@
 | 2015.06.24 | 이정훈     | 15. GSP후기 + Netflix의 Simian Army  http://techblog.netflix.com/2011/07/netflix-simian-army.html |
 | 2015.07.01 | 심민규     | 16. MSSQL Server Clustered Index vs. Non-clustered Index |
 | 2015.07.08 | 이정훈     | 17. GSP후기2   |
-| 2015.07.15 | 유재섭     | 18. MSSQL Server SET Command   |
-| 2015.07.22 | 김민정     |            |
+| 2015.07.22 | 유재섭     | 18. MSSQL Server SET Command   |
+| 2015.07.29 | -     | 여름방학  |
+| 2015.08.05 | -     | 여름방학  |
+| 2015.08.12 | 심민규     | 19. Art of Readable Code       |
+| 2015.08.19 | 김민정     | 20.        |
