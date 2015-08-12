@@ -2,7 +2,7 @@
 
 ## 한눈에 보는 한글 인코딩
 
-![http://heartonbit.byus.net/tc/attach/1/2036217031.png](http://www.shimminkyu.com/tc/attach/1/2036217031.png)
+![http://heartonbit.byus.net/tc/attach/1/2036217031.png](http://heartonbit.byus.net/tc/attach/1/2036217031.png)
 
 
 ## ASCII (American Standard Code for Information Interchange)
