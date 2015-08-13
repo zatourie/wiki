@@ -29,8 +29,7 @@
 
 ----
 
-Reference
+# Reference
 
-http://www.lukew.com/ff/entry.asp?1514
-
-https://www.udacity.com/course/progress#!/c-ud893
+    * http://www.lukew.com/ff/entry.asp?1514
+    * https://www.udacity.com/course/progress#!/c-ud893
