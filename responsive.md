@@ -13,7 +13,7 @@
 
 ## Column Drop
 
-http://www.tendency.co.kr/uFiles/board/0000300007/11/edit/a_2014070811162999.JPG
+<img src="http://www.tendency.co.kr/uFiles/board/0000300007/11/edit/a_2014070811162999.JPG"/>
 
 ## Mostly Fluid
 
