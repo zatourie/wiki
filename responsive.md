@@ -10,3 +10,11 @@
 
     display: flex;
     flex-wrap: wrap;
+
+## Column Drop
+
+## Mostly Fluid
+
+## Layout Shifter
+
+## Off Canvas
