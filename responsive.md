@@ -13,10 +13,17 @@
 
 ## Column Drop
 
-<img src="http://www.tendency.co.kr/uFiles/board/0000300007/11/edit/a_2014070811162999.JPG"/>
+<img src="http://static.lukew.com/md-patterns2.png"/>
 
 ## Mostly Fluid
 
-## Layout Shifter
+<img src="http://static.lukew.com/md-patterns1.png"/>
 
-## Off Canvas
+## Layout Shifter 
+
+<img src="http://static.lukew.com/md-patterns3.png"/>
+
+## Off Canvas 
+
+<img src="http://static.lukew.com/md-patterns7.png"/>
+
