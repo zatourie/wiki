@@ -1,12 +1,12 @@
-h1. Viewport
+# Viewport
 
-`<meta name="viewport" content=-"width=device-width,initial-scale=1">`
+<meta name="viewport" content=-"width=device-width,initial-scale=1">
 
-h2. Media query and breakpoint
+# Media query and breakpoint
 
-`@media screen and (max|min-width:400px){css}`
+@media screen and (max|min-width:400px){css}
 
-FlexBox
+# FlexBox
 
-`display: flex;
-flex-wrap: wrap;`
+display: flex;
+flex-wrap: wrap;
