@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Zatourie
-tagline:             The Jekyll Butler
+tagline:             Zatourie Study Wiki
 url:                 http://zatourie.github.io/wiki/
 paginate:            1
 baseurl:             ""
@@ -20,11 +20,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              mango
+  url:               
+  email:             minkyu.shim@gmail.com
 
 # Custom vars
-version:             2.0.0
+version:             1.0.0
 github:
   repo:              https://github.com/zatourie/wiki
