@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
+title:               Zatourie
 tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+url:                 http://zatourie.github.io/wiki/
 paginate:            1
 baseurl:             ""
 
@@ -27,4 +27,4 @@ author:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/zatourie/wiki
