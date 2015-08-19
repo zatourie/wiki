@@ -9,7 +9,7 @@ title:               Zatourie
 tagline:             Zatourie Study Wiki
 url:                 http://zatourie.github.io/wiki/
 paginate:            1
-baseurl:             ""
+baseurl:             http://zatourie.github.io/wiki/
 
 # Assets
 #
@@ -27,4 +27,4 @@ author:
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/zatourie/wiki
+  repo:              https://github.com/zatourie/wiki/
